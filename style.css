@@ -110,8 +110,10 @@ aside{
 font-family: sans-serif;
 background-color: rgb(110, 187, 123);
 border-radius: 10px;
-height: 380px;
-margin-bottom: 40px;
+min-height: 380px;
+max-height: 400px;
+margin-bottom: 60px;
+
 }
 aside > h2{
     font-family: sans-serif;
