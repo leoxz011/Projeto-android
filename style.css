@@ -10,15 +10,14 @@ body{
     
 }
 header{
-    height: 150px;
+    max-height: 150px;
     text-align: center;
     background-image: linear-gradient(rgb(69, 223, 120),black);
     min-height: 150px;
     padding-top: 30px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.295);
     padding-bottom: 20px;
-    max-height: 100vh;
-    min-width: 60vh;
+    width: auto;
 }
 header > h1{
     color: white;
