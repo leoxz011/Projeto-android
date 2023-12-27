@@ -19,6 +19,7 @@ header{
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.295);
     padding-bottom: 20px;
     min-width: 400px;
+    max-width: 100vh;
     }
 header > h1{
     color: white;
@@ -35,6 +36,8 @@ nav{
     text-align: left;
     background-color:black;
     height: auto;
+    min-width: 400px;
+    max-width: 100vh;
    
 }
 nav > a{
@@ -137,6 +140,7 @@ footer{
     text-align: center;
     margin-top: 30px;
     min-width: 400px;
+    max-width: 100vh;
     
 
 }
