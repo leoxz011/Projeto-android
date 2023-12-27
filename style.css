@@ -35,7 +35,7 @@ nav{
     text-align: left;
     background-color:black;
     height: auto;
-    min-width: 100vh;
+    min-width: auto;
    
 }
 nav > a{
