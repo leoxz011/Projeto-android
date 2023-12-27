@@ -35,6 +35,8 @@ header > p{
 nav{
     text-align: left;
     background-color:black;
+    max-width: 1500px;
+    min-width: 480px;
    
 }
 nav > a{
@@ -51,7 +53,7 @@ nav > a:hover{
 main{
     background-color: white;
     padding: 20px;
-    min-width: 400px;
+    min-width: 480px;
     max-width: 800px; 
     height: auto;
     margin:auto;
